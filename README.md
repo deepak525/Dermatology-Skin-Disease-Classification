@@ -24,12 +24,7 @@ Clinical Attributes: (take values 0, 1, 2, 3, unless otherwise indicated)
 8. oral mucosal involvement 
 9. knee and elbow involvement 
 10. scalp involvement 
-11. family history, (0 or 1) 
-34. Age (linear) 
-
-Histopathological Attributes: (take values 0, 1, 2, 3) 
-<br>
-11. we can try
+11. family history, (0 or 1)  
 12. melanin incontinence 
 13. eosinophils in the infiltrate 
 14. PNL infiltrate 
@@ -52,4 +47,5 @@ Histopathological Attributes: (take values 0, 1, 2, 3)
 31. perifollicular parakeratosis 
 32. inflammatory monoluclear inflitrate 
 33. band-like infiltrate
+34. Age (linear) 
 
