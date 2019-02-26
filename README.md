@@ -29,6 +29,7 @@ Clinical Attributes: (take values 0, 1, 2, 3, unless otherwise indicated)
 
 Histopathological Attributes: (take values 0, 1, 2, 3) 
 <br>
+11. we can try
 12. melanin incontinence 
 13. eosinophils in the infiltrate 
 14. PNL infiltrate 
